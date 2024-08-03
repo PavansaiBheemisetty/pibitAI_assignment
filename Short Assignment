@@ -1,0 +1,81 @@
+Hello ChatGPT,
+
+I need help parsing my resume into a structured JSON format. Please take the content of my resume and organize it into the following JSON structure:
+
+{
+  "name": "Your Full Name",
+  "contact_information": {
+    "phone": "Your Phone Number",
+    "email": "Your Email Address",
+    "address": "Your Mailing Address",
+    "linkedin": "Your LinkedIn URL",
+    "website": "Your Personal Website"
+  },
+  "summary": "Professional summary or objective",
+  "experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "Location",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2",
+        "Responsibility 3"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Degree",
+      "institution": "Institution Name",
+      "location": "Location",
+      "graduation_date": "Graduation Date",
+      "details": "Additional details or honors"
+    }
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3"
+  ],
+  "certifications": [
+    {
+      "certification": "Certification Name",
+      "institution": "Issuing Institution",
+      "date": "Date of Issuance"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Project Title",
+      "description": "Project Description",
+      "technologies": [
+        "Technology 1",
+        "Technology 2",
+        "Technology 3"
+      ],
+      "link": "Project Link"
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "role": "Role",
+      "organization": "Organization Name",
+      "location": "Location",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2"
+      ]
+    }
+  ]
+}
+
+Here is the content of my resume:
+
+[Paste or parse your resume content here]
+
+Thank you!
